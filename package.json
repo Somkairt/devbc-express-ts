@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "lib/app.js",
   "typings": "lib/app.d.ts",
-  "typr": "module",
+  "type": "module",
   "scripts": {
     "dev": "bun run ./server.ts",
     "build": "tsc -b tsconfig-onlyts.json"
